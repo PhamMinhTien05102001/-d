@@ -1,1 +1,2 @@
 test dòng 1
+dòng 2 có bị confict
